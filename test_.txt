@@ -1,0 +1,355 @@
+Iteration 1:
+Time spent on task 1: 21000000.000000 microseconds
+Time spent on task 2: 432000000.000000 microseconds
+Time spent on task 3: 55000000.000000 microseconds
+Time spent on task 4: 466000000.000000 microseconds
+Time spent on task 5: 31000000.000000 microseconds
+
+Iteration 2:
+Time spent on task 1: 19000000.000000 microseconds
+Time spent on task 2: 404000000.000000 microseconds
+Time spent on task 3: 63000000.000000 microseconds
+Time spent on task 4: 477000000.000000 microseconds
+Time spent on task 5: 30000000.000000 microseconds
+
+Iteration 3:
+Time spent on task 1: 19000000.000000 microseconds
+Time spent on task 2: 411000000.000000 microseconds
+Time spent on task 3: 57000000.000000 microseconds
+Time spent on task 4: 463000000.000000 microseconds
+Time spent on task 5: 66000000.000000 microseconds
+
+Iteration 4:
+Time spent on task 1: 19000000.000000 microseconds
+Time spent on task 2: 367000000.000000 microseconds
+Time spent on task 3: 49000000.000000 microseconds
+Time spent on task 4: 457000000.000000 microseconds
+Time spent on task 5: 75000000.000000 microseconds
+
+Iteration 5:
+Time spent on task 1: 19000000.000000 microseconds
+Time spent on task 2: 407000000.000000 microseconds
+Time spent on task 3: 83000000.000000 microseconds
+Time spent on task 4: 438000000.000000 microseconds
+Time spent on task 5: 34000000.000000 microseconds
+
+Iteration 6:
+Time spent on task 1: 19000000.000000 microseconds
+Time spent on task 2: 396000000.000000 microseconds
+Time spent on task 3: 66000000.000000 microseconds
+Time spent on task 4: 419000000.000000 microseconds
+Time spent on task 5: 41000000.000000 microseconds
+
+Iteration 7:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 393000000.000000 microseconds
+Time spent on task 3: 47000000.000000 microseconds
+Time spent on task 4: 421000000.000000 microseconds
+Time spent on task 5: 35000000.000000 microseconds
+
+Iteration 8:
+Time spent on task 1: 11000000.000000 microseconds
+Time spent on task 2: 254000000.000000 microseconds
+Time spent on task 3: 42000000.000000 microseconds
+Time spent on task 4: 288000000.000000 microseconds
+Time spent on task 5: 37000000.000000 microseconds
+
+Iteration 9:
+Time spent on task 1: 13000000.000000 microseconds
+Time spent on task 2: 277000000.000000 microseconds
+Time spent on task 3: 57000000.000000 microseconds
+Time spent on task 4: 297000000.000000 microseconds
+Time spent on task 5: 31000000.000000 microseconds
+
+Iteration 10:
+Time spent on task 1: 13000000.000000 microseconds
+Time spent on task 2: 263000000.000000 microseconds
+Time spent on task 3: 56000000.000000 microseconds
+Time spent on task 4: 302000000.000000 microseconds
+Time spent on task 5: 29000000.000000 microseconds
+
+Iteration 11:
+Time spent on task 1: 14000000.000000 microseconds
+Time spent on task 2: 263000000.000000 microseconds
+Time spent on task 3: 47000000.000000 microseconds
+Time spent on task 4: 300000000.000000 microseconds
+Time spent on task 5: 24000000.000000 microseconds
+
+Iteration 12:
+Time spent on task 1: 13000000.000000 microseconds
+Time spent on task 2: 278000000.000000 microseconds
+Time spent on task 3: 51000000.000000 microseconds
+Time spent on task 4: 329000000.000000 microseconds
+Time spent on task 5: 29000000.000000 microseconds
+
+Iteration 13:
+Time spent on task 1: 12000000.000000 microseconds
+Time spent on task 2: 281000000.000000 microseconds
+Time spent on task 3: 44000000.000000 microseconds
+Time spent on task 4: 308000000.000000 microseconds
+Time spent on task 5: 33000000.000000 microseconds
+
+Iteration 14:
+Time spent on task 1: 12000000.000000 microseconds
+Time spent on task 2: 257000000.000000 microseconds
+Time spent on task 3: 62000000.000000 microseconds
+Time spent on task 4: 295000000.000000 microseconds
+Time spent on task 5: 40000000.000000 microseconds
+
+Iteration 15:
+Time spent on task 1: 12000000.000000 microseconds
+Time spent on task 2: 243000000.000000 microseconds
+Time spent on task 3: 106000000.000000 microseconds
+Time spent on task 4: 419000000.000000 microseconds
+Time spent on task 5: 43000000.000000 microseconds
+
+Iteration 16:
+Time spent on task 1: 16000000.000000 microseconds
+Time spent on task 2: 318000000.000000 microseconds
+Time spent on task 3: 51000000.000000 microseconds
+Time spent on task 4: 395000000.000000 microseconds
+Time spent on task 5: 50000000.000000 microseconds
+
+Iteration 17:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 353000000.000000 microseconds
+Time spent on task 3: 56000000.000000 microseconds
+Time spent on task 4: 409000000.000000 microseconds
+Time spent on task 5: 39000000.000000 microseconds
+
+Iteration 18:
+Time spent on task 1: 16000000.000000 microseconds
+Time spent on task 2: 344000000.000000 microseconds
+Time spent on task 3: 49000000.000000 microseconds
+Time spent on task 4: 396000000.000000 microseconds
+Time spent on task 5: 67000000.000000 microseconds
+
+Iteration 19:
+Time spent on task 1: 16000000.000000 microseconds
+Time spent on task 2: 358000000.000000 microseconds
+Time spent on task 3: 51000000.000000 microseconds
+Time spent on task 4: 403000000.000000 microseconds
+Time spent on task 5: 36000000.000000 microseconds
+
+Iteration 20:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 358000000.000000 microseconds
+Time spent on task 3: 69000000.000000 microseconds
+Time spent on task 4: 404000000.000000 microseconds
+Time spent on task 5: 32000000.000000 microseconds
+
+Iteration 21:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 358000000.000000 microseconds
+Time spent on task 3: 64000000.000000 microseconds
+Time spent on task 4: 403000000.000000 microseconds
+Time spent on task 5: 23000000.000000 microseconds
+
+Iteration 22:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 365000000.000000 microseconds
+Time spent on task 3: 48000000.000000 microseconds
+Time spent on task 4: 395000000.000000 microseconds
+Time spent on task 5: 33000000.000000 microseconds
+
+Iteration 23:
+Time spent on task 1: 16000000.000000 microseconds
+Time spent on task 2: 357000000.000000 microseconds
+Time spent on task 3: 58000000.000000 microseconds
+Time spent on task 4: 403000000.000000 microseconds
+Time spent on task 5: 42000000.000000 microseconds
+
+Iteration 24:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 352000000.000000 microseconds
+Time spent on task 3: 105000000.000000 microseconds
+Time spent on task 4: 394000000.000000 microseconds
+Time spent on task 5: 49000000.000000 microseconds
+
+Iteration 25:
+Time spent on task 1: 16000000.000000 microseconds
+Time spent on task 2: 350000000.000000 microseconds
+Time spent on task 3: 58000000.000000 microseconds
+Time spent on task 4: 395000000.000000 microseconds
+Time spent on task 5: 29000000.000000 microseconds
+
+Iteration 26:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 357000000.000000 microseconds
+Time spent on task 3: 92000000.000000 microseconds
+Time spent on task 4: 410000000.000000 microseconds
+Time spent on task 5: 38000000.000000 microseconds
+
+Iteration 27:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 357000000.000000 microseconds
+Time spent on task 3: 57000000.000000 microseconds
+Time spent on task 4: 397000000.000000 microseconds
+Time spent on task 5: 17000000.000000 microseconds
+
+Iteration 28:
+Time spent on task 1: 11000000.000000 microseconds
+Time spent on task 2: 236000000.000000 microseconds
+Time spent on task 3: 46000000.000000 microseconds
+Time spent on task 4: 273000000.000000 microseconds
+Time spent on task 5: 23000000.000000 microseconds
+
+Iteration 29:
+Time spent on task 1: 13000000.000000 microseconds
+Time spent on task 2: 362000000.000000 microseconds
+Time spent on task 3: 72000000.000000 microseconds
+Time spent on task 4: 397000000.000000 microseconds
+Time spent on task 5: 39000000.000000 microseconds
+
+Iteration 30:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 352000000.000000 microseconds
+Time spent on task 3: 47000000.000000 microseconds
+Time spent on task 4: 395000000.000000 microseconds
+Time spent on task 5: 34000000.000000 microseconds
+
+Iteration 31:
+Time spent on task 1: 11000000.000000 microseconds
+Time spent on task 2: 323000000.000000 microseconds
+Time spent on task 3: 59000000.000000 microseconds
+Time spent on task 4: 410000000.000000 microseconds
+Time spent on task 5: 38000000.000000 microseconds
+
+Iteration 32:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 382000000.000000 microseconds
+Time spent on task 3: 81000000.000000 microseconds
+Time spent on task 4: 438000000.000000 microseconds
+Time spent on task 5: 30000000.000000 microseconds
+
+Iteration 33:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 382000000.000000 microseconds
+Time spent on task 3: 67000000.000000 microseconds
+Time spent on task 4: 433000000.000000 microseconds
+Time spent on task 5: 67000000.000000 microseconds
+
+Iteration 34:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 383000000.000000 microseconds
+Time spent on task 3: 53000000.000000 microseconds
+Time spent on task 4: 435000000.000000 microseconds
+Time spent on task 5: 44000000.000000 microseconds
+
+Iteration 35:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 396000000.000000 microseconds
+Time spent on task 3: 53000000.000000 microseconds
+Time spent on task 4: 435000000.000000 microseconds
+Time spent on task 5: 39000000.000000 microseconds
+
+Iteration 36:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 390000000.000000 microseconds
+Time spent on task 3: 46000000.000000 microseconds
+Time spent on task 4: 430000000.000000 microseconds
+Time spent on task 5: 62000000.000000 microseconds
+
+Iteration 37:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 382000000.000000 microseconds
+Time spent on task 3: 97000000.000000 microseconds
+Time spent on task 4: 431000000.000000 microseconds
+Time spent on task 5: 33000000.000000 microseconds
+
+Iteration 38:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 382000000.000000 microseconds
+Time spent on task 3: 100000000.000000 microseconds
+Time spent on task 4: 431000000.000000 microseconds
+Time spent on task 5: 26000000.000000 microseconds
+
+Iteration 39:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 389000000.000000 microseconds
+Time spent on task 3: 91000000.000000 microseconds
+Time spent on task 4: 431000000.000000 microseconds
+Time spent on task 5: 36000000.000000 microseconds
+
+Iteration 40:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 383000000.000000 microseconds
+Time spent on task 3: 136000000.000000 microseconds
+Time spent on task 4: 431000000.000000 microseconds
+Time spent on task 5: 37000000.000000 microseconds
+
+Iteration 41:
+Time spent on task 1: 19000000.000000 microseconds
+Time spent on task 2: 382000000.000000 microseconds
+Time spent on task 3: 61000000.000000 microseconds
+Time spent on task 4: 432000000.000000 microseconds
+Time spent on task 5: 48000000.000000 microseconds
+
+Iteration 42:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 382000000.000000 microseconds
+Time spent on task 3: 40000000.000000 microseconds
+Time spent on task 4: 441000000.000000 microseconds
+Time spent on task 5: 38000000.000000 microseconds
+
+Iteration 43:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 373000000.000000 microseconds
+Time spent on task 3: 104000000.000000 microseconds
+Time spent on task 4: 418000000.000000 microseconds
+Time spent on task 5: 40000000.000000 microseconds
+
+Iteration 44:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 370000000.000000 microseconds
+Time spent on task 3: 60000000.000000 microseconds
+Time spent on task 4: 417000000.000000 microseconds
+Time spent on task 5: 24000000.000000 microseconds
+
+Iteration 45:
+Time spent on task 1: 18000000.000000 microseconds
+Time spent on task 2: 369000000.000000 microseconds
+Time spent on task 3: 131000000.000000 microseconds
+Time spent on task 4: 417000000.000000 microseconds
+Time spent on task 5: 36000000.000000 microseconds
+
+Iteration 46:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 372000000.000000 microseconds
+Time spent on task 3: 57000000.000000 microseconds
+Time spent on task 4: 403000000.000000 microseconds
+Time spent on task 5: 46000000.000000 microseconds
+
+Iteration 47:
+Time spent on task 1: 16000000.000000 microseconds
+Time spent on task 2: 358000000.000000 microseconds
+Time spent on task 3: 129000000.000000 microseconds
+Time spent on task 4: 407000000.000000 microseconds
+Time spent on task 5: 39000000.000000 microseconds
+
+Iteration 48:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 357000000.000000 microseconds
+Time spent on task 3: 53000000.000000 microseconds
+Time spent on task 4: 403000000.000000 microseconds
+Time spent on task 5: 37000000.000000 microseconds
+
+Iteration 49:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 357000000.000000 microseconds
+Time spent on task 3: 73000000.000000 microseconds
+Time spent on task 4: 404000000.000000 microseconds
+Time spent on task 5: 40000000.000000 microseconds
+
+Iteration 50:
+Time spent on task 1: 17000000.000000 microseconds
+Time spent on task 2: 358000000.000000 microseconds
+Time spent on task 3: 44000000.000000 microseconds
+Time spent on task 4: 403000000.000000 microseconds
+Time spent on task 5: 33000000.000000 microseconds
+
+Average time spent on task 1: 16400000.000000 microseconds
+Average time spent on task 2: 351460000.000000 microseconds
+Average time spent on task 3: 66860000.000000 microseconds
+Average time spent on task 4: 399960000.000000 microseconds
+Average time spent on task 5: 38440000.000000 microseconds

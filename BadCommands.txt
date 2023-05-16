@@ -1,0 +1,18 @@
+/doesnotexist
+/../../doesnotexist
+pwd shouldn't have args
+cdbouslindjhblvulerivn
+./test < dne.txt
+cd blah
+cd ~/blah
+ls *blah
+ls blah*
+ls blah*blah
+ls blah*blah.txt
+ls ~/*.notafiletype
+ls *blah.txt
+ls blah*.txt
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+ls *notafile.notafiletype
+ls notafile*notafile.notafiletype
+cd ~/*.txt

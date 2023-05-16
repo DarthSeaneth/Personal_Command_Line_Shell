@@ -1,0 +1,20 @@
+cd 
+pwd
+cd ~/
+pwd
+cd ~/Downloads
+pwd
+ls *
+ls *.txt
+ls foo*
+ls foo*bar
+ls *.c
+ls *bar
+ls foo*bar.txt
+ls ~/*
+ls ~/Desktop/*
+ls ~/Desktop/*.txt
+ls *h.txt
+ls *h.c
+cd ~/D*
+ls ~/D*
